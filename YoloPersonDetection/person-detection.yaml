@@ -1,0 +1,9 @@
+
+# YOLO Dataset Configuration
+dataset: /content/drive/MyDrive/data  # Base dataset directory
+train: /content/drive/MyDrive/data/train
+val: /content/drive/MyDrive/data/val
+test: /content/drive/MyDrive/data/test
+
+nc: 1  # Number of classes
+names: ['person']
